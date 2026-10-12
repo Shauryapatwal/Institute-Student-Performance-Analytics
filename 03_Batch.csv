@@ -1,0 +1,43 @@
+BatchID,CourseID,Course,FacultyID,FacultyName,StartDate,EndDate,StudentsCount,ClassPattern,BatchStartTime,Mode,Status,AssignedStudentsCount,CapacityGap
+B001,C015,VBA,F03,Rohit Sir,15-03-2024,13-07-2024,55,TTS,14:00,Offline,Running,18,37
+B002,C009,Power BI,F08,Anjali Ma'am,29-09-2024,29-10-2024,26,MWF,11:00,Offline,Completed,2,24
+B003,C003,Data Analytics,F03,Rohit Sir,05-03-2025,04-05-2025,22,TTS,14:00,Offline,Completed,5,17
+B004,C016,Web Design,F07,Vivek Sir,04-05-2025,01-09-2025,20,MWF,11:00,Online,Completed,6,14
+B005,C003,Data Analytics,F04,Pooja Ma'am,16-03-2024,12-09-2024,20,MWF,11:00,Offline,Running,19,1
+B006,C001,Advanced Excel,F10,Ritu Ma'am,15-11-2024,14-05-2025,25,TTS,18:00,Offline,Upcoming,25,0
+B007,C002,Computer Basics,F08,Anjali Ma'am,24-06-2024,21-12-2024,35,MWF,08:00,Offline,Completed,35,0
+B008,C008,Machine Learning,F10,Ritu Ma'am,02-05-2024,30-08-2024,26,MWF,08:00,Offline,Running,57,-31
+B009,C010,Python,F01,Amit Sir,20-01-2025,20-04-2025,60,MWF,14:00,Online,Completed,39,21
+B010,C005,Excel,F02,Neha Ma'am,19-06-2024,17-10-2024,40,MWF,18:00,Online,Running,42,-2
+B011,C010,Python,F07,Vivek Sir,23-01-2024,22-05-2024,53,MWF,18:00,Offline,Running,9,44
+B012,C003,Data Analytics,F01,Amit Sir,24-12-2024,23-04-2025,40,MWF,11:00,Online,Running,10,30
+B013,C012,Tableau,F02,Neha Ma'am,20-01-2024,20-03-2024,17,TTS,08:00,Offline,Upcoming,10,7
+B014,C015,VBA,F06,Sonal Ma'am,06-08-2024,04-12-2024,54,TTS,18:00,Online,Upcoming,21,33
+B015,C014,Typing,F03,Rohit Sir,14-03-2025,12-06-2025,23,TTS,08:00,Offline,Completed,10,13
+B016,C012,Tableau,F04,Pooja Ma'am,06-03-2025,05-04-2025,13,TTS,14:00,Online,Completed,21,-8
+B017,C006,Graphic Design,F04,Pooja Ma'am,20-01-2024,19-02-2024,35,MWF,08:00,Online,Upcoming,7,28
+B018,C009,Power BI,F10,Ritu Ma'am,25-11-2024,25-12-2024,32,TTS,16:00,Online,Running,3,29
+B019,C002,Computer Basics,F09,Deepak Sir,12-01-2024,10-07-2024,19,MWF,08:00,Online,Upcoming,16,3
+B020,C007,MS Office,F07,Vivek Sir,21-07-2024,19-09-2024,56,TTS,11:00,Online,Upcoming,9,47
+B021,C016,Web Design,F02,Neha Ma'am,07-03-2025,03-09-2025,50,TTS,11:00,Offline,Upcoming,30,20
+B022,C006,Graphic Design,F03,Rohit Sir,15-09-2024,15-10-2024,17,MWF,08:00,Offline,Completed,13,4
+B023,C009,Power BI,F02,Neha Ma'am,28-12-2024,28-03-2025,12,TTS,16:00,Online,Running,32,-20
+B024,C009,Power BI,F05,Karan Sir,03-09-2024,03-10-2024,50,MWF,18:00,Online,Upcoming,17,33
+B025,C003,Data Analytics,F06,Sonal Ma'am,26-10-2024,25-12-2024,57,TTS,08:00,Offline,Running,5,52
+B026,C006,Graphic Design,F04,Pooja Ma'am,10-12-2024,09-04-2025,57,TTS,11:00,Online,Running,23,34
+B027,C009,Power BI,F03,Rohit Sir,16-09-2024,16-10-2024,40,MWF,16:00,Offline,Completed,1,39
+B028,C001,Advanced Excel,F09,Deepak Sir,14-04-2024,12-08-2024,47,TTS,08:00,Online,Running,3,44
+B029,C013,Tally,F08,Anjali Ma'am,22-04-2025,19-10-2025,54,MWF,08:00,Online,Completed,22,32
+B030,C010,Python,F05,Karan Sir,02-03-2024,31-05-2024,29,TTS,18:00,Online,Running,8,21
+B031,C011,SQL,F04,Pooja Ma'am,21-03-2024,19-06-2024,55,TTS,08:00,Online,Upcoming,12,43
+B032,C016,Web Design,F03,Rohit Sir,14-04-2024,13-07-2024,52,MWF,16:00,Online,Upcoming,18,34
+B033,C001,Advanced Excel,F09,Deepak Sir,24-03-2024,22-07-2024,38,TTS,08:00,Online,Running,12,26
+B034,C011,SQL,F04,Pooja Ma'am,05-08-2024,03-12-2024,37,MWF,11:00,Offline,Running,25,12
+B035,C007,MS Office,F07,Vivek Sir,02-05-2025,31-07-2025,26,TTS,08:00,Offline,Upcoming,13,13
+B036,C014,Typing,F02,Neha Ma'am,31-03-2024,30-04-2024,56,TTS,08:00,Online,Completed,14,42
+B037,C013,Tally,F07,Vivek Sir,08-07-2024,06-09-2024,11,TTS,14:00,Online,Completed,18,-7
+B038,C009,Power BI,F06,Sonal Ma'am,01-11-2024,01-12-2024,12,TTS,18:00,Offline,Upcoming,0,12
+B039,C007,MS Office,F06,Sonal Ma'am,04-01-2025,04-04-2025,30,MWF,11:00,Online,Completed,11,19
+B040,C014,Typing,F04,Pooja Ma'am,31-01-2025,31-05-2025,58,TTS,08:00,Online,Running,16,42
+B041,C004,Digital Marketing,F09,Deepak Sir,,,22,MWF,11:00,Online,Completed,43,-21
+B042,C004,Digital Marketing,F09,Deepak Sir,,,22,MWF,11:00,Online,Completed,0,22

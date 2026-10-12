@@ -1,0 +1,11 @@
+FacultyID,Name,Email,Phone,CourseID,PrimarySpecialization,Batch,ClassPattern,BatchStartTime,JoinDate,ExperienceYears,ClassesTaken,AttendancePercent,Feedback,Salary,Status,FacultyStatus,PhotoPath
+F01,Amit Sir,amitf01@institute.com,9249827706,C005,Excel,Morning,MWF,18:00,2022-08-17,1,809,78,3.5,47651,Active,Active,photos/faculty/F01.jpg
+F02,Neha Ma'am,nehaf02@institute.com,9128492780,C009,Power BI,Afternoon,TTS,11:00,2022-03-03,2,273,77,4.0,49439,Left,Left,photos/faculty/F02.jpg
+F03,Rohit Sir,rohitf03@institute.com,9553778756,C010,Python,Evening,TTS,11:00,2023-07-24,1,827,95,3.3,34110,On Leave,On Leave,photos/faculty/F03.jpg
+F04,Pooja Ma'am,poojaf04@institute.com,9469319644,C011,SQL,Evening,MWF,16:00,2022-07-29,2,439,73,3.7,55142,Active,Active,photos/faculty/F04.jpg
+F05,Karan Sir,karanf05@institute.com,9764130526,C003,Data Analytics,Evening,MWF,08:00,2024-02-15,2,615,79,4.7,23003,Left,Left,photos/faculty/F05.jpg
+F06,Sonal Ma'am,sonalf06@institute.com,9208449460,C013,Tally,Weekend,TTS,16:00,2023-04-12,5,131,97,3.5,43909,Active,Active,photos/faculty/F06.jpg
+F07,Vivek Sir,vivekf07@institute.com,9833953718,C016,Web Design,Morning,MWF,18:00,2024-01-29,6,264,91,3.5,36043,Active,Active,photos/faculty/F07.jpg
+F08,Anjali Ma'am,anjalif08@institute.com,9698020238,C006,Graphic Design,Afternoon,TTS,08:00,2024-08-04,7,326,99,4.3,35010,Active,Active,photos/faculty/F08.jpg
+F09,Deepak Sir,deepakf09@institute.com,9709004943,C004,Digital Marketing,Evening,MWF,16:00,2023-10-09,7,324,72,3.4,45928,Left,Left,photos/faculty/F09.jpg
+F10,Ritu Ma'am,rituf10@institute.com,9702764446,C002,Computer Basics,Evening,TTS,18:00,2024-07-28,3,321,74,3.5,46175,On Leave,On Leave,photos/faculty/F10.jpg
